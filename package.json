@@ -1,7 +1,6 @@
 {
   "name": "e-commerce",
   "version": "0.1.0",
-  "main": "index.js",
   "homepage": "https://davidflr1.github.io/course-eCommerce/",
   "private": true,
   "dependencies": {
