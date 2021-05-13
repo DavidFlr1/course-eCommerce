@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/course-eCommerce/static/css/main.9f3d8ed0.chunk.css",
+    "main.js": "/course-eCommerce/static/js/main.a67757b1.chunk.js",
+    "main.js.map": "/course-eCommerce/static/js/main.a67757b1.chunk.js.map",
+    "runtime-main.js": "/course-eCommerce/static/js/runtime-main.50b28756.js",
+    "runtime-main.js.map": "/course-eCommerce/static/js/runtime-main.50b28756.js.map",
+    "static/js/2.67bb5691.chunk.js": "/course-eCommerce/static/js/2.67bb5691.chunk.js",
+    "static/js/2.67bb5691.chunk.js.map": "/course-eCommerce/static/js/2.67bb5691.chunk.js.map",
+    "index.html": "/course-eCommerce/index.html",
+    "static/css/main.9f3d8ed0.chunk.css.map": "/course-eCommerce/static/css/main.9f3d8ed0.chunk.css.map",
+    "static/js/2.67bb5691.chunk.js.LICENSE.txt": "/course-eCommerce/static/js/2.67bb5691.chunk.js.LICENSE.txt",
+    "static/media/viberry_logo.33d519dc.jpg": "/course-eCommerce/static/media/viberry_logo.33d519dc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50b28756.js",
+    "static/js/2.67bb5691.chunk.js",
+    "static/css/main.9f3d8ed0.chunk.css",
+    "static/js/main.a67757b1.chunk.js"
+  ]
+}
