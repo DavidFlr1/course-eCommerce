@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/course-eCommerce/static/css/main.9480537d.chunk.css",
-    "main.js": "/course-eCommerce/static/js/main.45d6be42.chunk.js",
-    "main.js.map": "/course-eCommerce/static/js/main.45d6be42.chunk.js.map",
+    "main.js": "/course-eCommerce/static/js/main.16ea7531.chunk.js",
+    "main.js.map": "/course-eCommerce/static/js/main.16ea7531.chunk.js.map",
     "runtime-main.js": "/course-eCommerce/static/js/runtime-main.50b28756.js",
     "runtime-main.js.map": "/course-eCommerce/static/js/runtime-main.50b28756.js.map",
     "static/js/2.67bb5691.chunk.js": "/course-eCommerce/static/js/2.67bb5691.chunk.js",
@@ -10,12 +10,12 @@
     "index.html": "/course-eCommerce/index.html",
     "static/css/main.9480537d.chunk.css.map": "/course-eCommerce/static/css/main.9480537d.chunk.css.map",
     "static/js/2.67bb5691.chunk.js.LICENSE.txt": "/course-eCommerce/static/js/2.67bb5691.chunk.js.LICENSE.txt",
-    "static/media/portada-shop.fbca6257.png": "/course-eCommerce/static/media/portada-shop.fbca6257.png"
+    "static/media/cart-icon.8fc611d2.jpg": "/course-eCommerce/static/media/cart-icon.8fc611d2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.50b28756.js",
     "static/js/2.67bb5691.chunk.js",
     "static/css/main.9480537d.chunk.css",
-    "static/js/main.45d6be42.chunk.js"
+    "static/js/main.16ea7531.chunk.js"
   ]
 }
