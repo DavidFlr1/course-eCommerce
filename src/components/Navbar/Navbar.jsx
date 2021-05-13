@@ -3,7 +3,7 @@ import { AppBar, Toolbar, IconButton, Badge, MenuItem, Menu, Typography } from '
 import { ShoppingCart } from '@material-ui/icons'
 import { Link, useLocation } from 'react-router-dom'
 
-import logo from '../../assets/viberry_logo.jpg'
+import logo from '../../assets/portada-shop.png'
 import useStyles from './styles';
 
 const Navbar = ({ totalItems }) => {
@@ -16,7 +16,7 @@ const Navbar = ({ totalItems }) => {
                 <Toolbar>
                     <Typography component={Link} to="/" variant="h6" className={classes.title} color="inherit">
                         <img src={logo} alt="Commerce.js" height="25px" className={classes.image} />
-                        Feel the vibe
+                        Let' shop! with commerce.js and stripe (All transactions are fully test)
                     </Typography>
                     <div className={classes.grow} />
                     {location.pathname === '/' && (
